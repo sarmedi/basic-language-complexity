@@ -9,7 +9,7 @@ When given text from the User, program outputs:
 
   * ASL (average sentence length)
 
-  * PHW (percent hard words [ number of words with three or more syllabes that do not contain a hyphen or end in -es or-ed] )
+  * PHW (percent hard words [number of words with three or more syllabes that do not contain a hyphen or end in -es or-ed] )
 
   * All the words that qualify as 'hard words'
 
