@@ -17,7 +17,7 @@ When given text from the User, program outputs:
 
   * GFRI (0.4*(ASL + PHW))
 
-  * FKRI (206.835-1.015*ASL-86.4*ASYL)
+  * FKRI (206.835-1.015*(ASL-86.4)*ASYL)
 
 
 GFRI and FKRI are slightly modifed versions of well-known readability measures named Gunnig-fog and Flesch Kincaid.  In Gunning-fog, the higher the value calculated the more difficult it is to read a text, while for Flesch Kincaid it is the opposite.
